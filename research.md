@@ -1,5 +1,5 @@
 ---
-title: Syntax Fest
+title: Research
 ---
 
 <head>
@@ -7,7 +7,7 @@ title: Syntax Fest
 </head>
 
 <body>
-    <bibtex src="syntax_fest.bib"></bibtex>
+    <bibtex src="mattias.bib"></bibtex>
     
     <div class="bibtex_template">
         <li>
