@@ -23,6 +23,9 @@ title: Research
             <span class="if tags">
                 (<span class="tags" style="font-weight: bold;"></span>)
             </span>
+            <span class="if url" style="margin-left: 20px">
+              <a class="url" style="color:black; font-size:10px">(view online)</a>
+            </span>
         </li>
     </div>
 
